@@ -48,7 +48,7 @@ printf("\n%d",data[i]);
 
 }
 printf("\n after sorting");
-selectionsort(data,n);
+bubble(data,n);
 
 printf("\n");
 }
